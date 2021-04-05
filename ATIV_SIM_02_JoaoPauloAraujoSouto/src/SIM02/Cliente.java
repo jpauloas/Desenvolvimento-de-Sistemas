@@ -25,40 +25,40 @@ public class Cliente {
 	public int getId() {
 		return Id;
 	}
-	public void getCnpj(int Cnpj) {
+	public void setCnpj(int Cnpj) {
 		this.Cnpj = Cnpj;
 	}
 	public int getCnpj() {
 		return Cnpj;
 	}
-	public void getTelefone(int Telefone) {
+	public void setTelefone(int Telefone) {
 		this.Telefone = Telefone;
 	}
 	public int getTelefone() {
 		return Telefone;
 	}
-	public void getEndereco(String Endereco) {
+	public void setEndereco(String Endereco) {
 		this.Endereco = Endereco;
 	}
-	public String setEndereco() {
+	public String getEndereco() {
 		return Endereco;
 	}
-	public void getDemandante(String Demandante) {
+	public void setDemandante(String Demandante) {
 		this.Demandante = Demandante;
 	}
-	public String setDemandante() {
+	public String getDemandante() {
 		return Demandante;
 	}
-	public void getEmailDemandante(String EmailDemandante) {
+	public void setEmailDemandante(String EmailDemandante) {
 		this.EmailDemandante = EmailDemandante;
 	}
-	public String setEmailDemandante() {
+	public String getEmailDemandante() {
 		return EmailDemandante;
 	}
-	public void getEmailEmpresa(String EmailEmpresa) {
+	public void setEmailEmpresa(String EmailEmpresa) {
 		this.EmailEmpresa = EmailEmpresa;
 	}
-	public String setEmailEmpresa() {
+	public String getEmailEmpresa() {
 		return EmailEmpresa;
 	}
 

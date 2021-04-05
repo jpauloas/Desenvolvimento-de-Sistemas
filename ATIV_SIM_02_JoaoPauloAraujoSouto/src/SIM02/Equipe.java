@@ -16,62 +16,62 @@ public class Equipe {
 		
 	}
 	
-	public void setNomeEquipe(String nomeequipe) {
-		this.NomeEquipe = nomeequipe;
+	public void setNomeEquipe(String NomeEquipe) {
+		this.NomeEquipe = NomeEquipe;
 	}
 	public String getNomeEquipe() {
 		return NomeEquipe;
 	}
-	public void setIdEquipe(int idequipe) {
-		this.IdEquipe = idequipe;
+	public void setIdEquipe(int IdEquipe) {
+		this.IdEquipe = IdEquipe;
 	}
 	public int getIdEquipe() {
 		return IdEquipe;
 	}
-	public void setNomeChefe(String nomechefe) {
-		this.NomeChefe = nomechefe;
+	public void setNomeChefe(String NomeChefe) {
+		this.NomeChefe = NomeChefe;
 	}
 	public String getNomeChefe() {
 		return NomeChefe;
 	}
-	public void setFuncao(String funcao) {
-		this.Funcao = funcao;
+	public void setFuncao(String Funcao) {
+		this.Funcao = Funcao;
 	}
 	public String getFuncao() {
 		return Funcao;
 	}
-	public void setDescricao(String descricao) {
-		this.Descricao = descricao;
+	public void setDescricao(String Descricao) {
+		this.Descricao = Descricao;
 	}
 	public String getDescricao() {
 		return Descricao;
 	}
-	public void setNumEquipe(int numequipe) {
-		this.NumEquipe = numequipe;
+	public void setNumEquipe(int NumEquipe) {
+		this.NumEquipe = NumEquipe;
 	}
 	public int getNumEquipe() {
 		return NumEquipe;
 	}
-	public void setNomeEng(String nomeeng) {
-		this.NomeEng = nomeeng;
+	public void setNomeEng(String NomeEng) {
+		this.NomeEng = NomeEng;
 	}
 	public String getNomeEng() {
 		return NomeEng;
 	}
-	public void setNomeEngAux(String nomeengaux) {
-		this.NomeEngAux = nomeengaux;
+	public void setNomeEngAux(String NomeEngAux) {
+		this.NomeEngAux = NomeEngAux;
 	}
 	public String getNomeEngaux() {
 		return NomeEngAux;
 	}
-	public void setNomeArq(String nomearq) {
-		this.NomeArq = nomearq;
+	public void setNomeArq(String NomeArq) {
+		this.NomeArq = NomeArq;
 	}
 	public String getNomeArq() {
 		return NomeArq;
 	}
-	public void setNomeEstagiario(String nomeestagiario) {
-		this.NomeEstagiario = nomeestagiario;
+	public void setNomeEstagiario(String NomeEstagiario) {
+		this.NomeEstagiario = NomeEstagiario;
 	}
 	public String getNomeEstagiario() {
 		return NomeEstagiario;
