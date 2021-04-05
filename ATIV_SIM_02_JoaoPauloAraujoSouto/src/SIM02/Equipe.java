@@ -76,5 +76,22 @@ public class Equipe {
 	public String getNomeEstagiario() {
 		return NomeEstagiario;
 	}
+	
+	
+	@Override /* impressão dos dados armazenados */
+	public String toString() {
+		
+	return "Nome da Equipe: "+ NomeEquipe  +
+				"\n Numero identificador da Equipe: " + IdEquipe +
+				"\n Funcao: "+ Funcao +
+				"\n Descricao de trabalho: "+ Descricao +
+				"\n Numero de membros: "+ NumEquipe +
+				"\n Nome do engenheiro Chefe: "+ NomeChefe +
+				"\n Nome Engenheiro principal: " + NomeEng +
+				"\n Nome Engenheiro Auxiliar: "+ NomeEngAux +
+				"\n Nome do arquiteto: " + NomeArq + 
+				"\n Nome do estagiario: "+ NomeEstagiario;
+				
+	}
 
 }

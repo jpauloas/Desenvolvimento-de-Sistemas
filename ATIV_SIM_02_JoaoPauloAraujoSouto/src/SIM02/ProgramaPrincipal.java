@@ -479,7 +479,7 @@ public class ProgramaPrincipal {
 					
 			} /* Fecha o Switch de selecao */
 			
-		} while (selecao == 0);
+		} while (selecao != 0);
 		
 	} /*Fecha a condição de probrama principal */
 		

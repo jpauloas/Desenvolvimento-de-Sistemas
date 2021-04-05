@@ -62,4 +62,20 @@ public class Funcionario {
 	public String getEspecialidade() {
 		return Especialidade;
 	}
+	
+	@Override /* impressão dos dados armazenados */
+	public String toString() {
+		
+		return "Nome do funcionario: "+ Nome  +
+					"\n Numero identificador do funcionário: " + Id +
+					"\n Codigo do CREA: "+ Crea +
+					"\n CPF: "+ Cpf +
+					"\n Função de trabalho: "+ Funcao +
+					"\n Equipe que trabalha: "+ Equipe +
+					"\n Formação superior: " + Graduacao +
+					"\n Especialidade de trabalho: "+ Especialidade;
+					
+		}
+	
+	
 }

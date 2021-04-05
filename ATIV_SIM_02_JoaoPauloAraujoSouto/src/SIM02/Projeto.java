@@ -61,6 +61,20 @@ public abstract class Projeto {
 	}
 	public String getComplexidade() {
 		return Complexidade;
-	}	
+	}
+	
+	@Override /* impressão dos dados armazenados */
+	public String toString() {
+		
+		return "Nome do projeto: "+ Nome +
+					"\n Numero identificador: " + Id +
+					"\n Descrição do projeto: "+ Descricao +
+					"\n Nome do cliente: "+ NomeCliente +
+					"\n Numero identificador do cliente: "+ IdCliente +
+					"\n Data de inicio do projeto: "+ DataInicio +
+					"\n Data de entrega estimada: " + DataFinalizacao +
+					"\n Nivel de complexidade do projeto: "+ Complexidade;
+					
+		}
 	
 }

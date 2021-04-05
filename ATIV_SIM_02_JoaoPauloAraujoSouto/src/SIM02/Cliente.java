@@ -61,5 +61,21 @@ public class Cliente {
 	public String getEmailEmpresa() {
 		return EmailEmpresa;
 	}
+	
+	@Override /* impressão dos dados armazenados */
+	public String toString() {
+		
+		return "Nome da empres (fantasia): "+ NomeFantasia +
+					"\n Numero identificador: " + Id +
+					"\n Codigo do CNPJ: "+ Cnpj +
+					"\n Numero de Telefone: "+ Telefone +
+					"\n Endereco: "+ Endereco +
+					"\n E-mail da empresa: "+ EmailEmpresa +
+					"\n Nome do funcionário demandante: " + Demandante +
+					"\n E-mail do funcionário demandante: "+ EmailDemandante;
+					
+		}
+	
+	
 
 }

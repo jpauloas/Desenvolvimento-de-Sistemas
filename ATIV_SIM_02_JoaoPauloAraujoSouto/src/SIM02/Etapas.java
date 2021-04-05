@@ -62,4 +62,17 @@ public class Etapas {
 	public String getEntregaFinal() {
 		return EntregaFinal;
 	}	
+	
+	@Override /* impressão dos dados armazenados */
+	public String toString() {
+		
+	return "Nome da etapa: "+ Nome  +
+				"\n Numero identificador da etapa: " + IdEtapa +
+				"\n Equipe Responsavel: "+ Equipe +
+				"\n Identificador da Equipe Responsavel: "+ IdEquipe +
+				"\n Descricao de trabalho: "+ Descricao +
+				"\n Data de inicio: "+ DataInicio +
+				"\n Data de entrega: "+ DataFinalizacao +
+				"\n Conteúdo da entrega final: " + EntregaFinal;
+	}
 }
