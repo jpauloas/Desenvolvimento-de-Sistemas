@@ -1,0 +1,47 @@
+C:\Users\joaop\source\repos\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.csprojAssemblyReference.cache
+C:\Users\joaop\source\repos\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.Form1_Tela_Login.resources
+C:\Users\joaop\source\repos\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.Properties.Resources.resources
+C:\Users\joaop\source\repos\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.Telas.Form2_NovoCadastro.resources
+C:\Users\joaop\source\repos\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.csproj.GenerateResource.cache
+C:\Users\joaop\source\repos\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.Telas.A01_TelaMenu.resources
+C:\Users\joaop\source\repos\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\bin\Debug\SA_Barbara_JoaoPaulo.exe.config
+C:\Users\joaop\source\repos\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\bin\Debug\SA_Barbara_JoaoPaulo.exe
+C:\Users\joaop\source\repos\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\bin\Debug\SA_Barbara_JoaoPaulo.pdb
+C:\Users\joaop\source\repos\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.exe
+C:\Users\joaop\source\repos\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.pdb
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.csprojAssemblyReference.cache
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.Telas.Cliente01.resources
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.Telas.Cliente11.resources
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.Telas.Cliente12.resources
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.Telas.Estoque01.resources
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.Telas.Producao01.resources
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.Telas.RH01.resources
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.Telas.RH11.resources
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.Telas.Vendas01.resources
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.Telas.Forms3_TelaMenu.resources
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.Telas.A02_CadastroEncomenda.resources
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.Form1_Tela_Login.resources
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.Properties.Resources.resources
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.Telas.Form2_NovoCadastro.resources
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.Telas.Vendas11.resources
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.csproj.GenerateResource.cache
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.csproj.CoreCompileInputs.cache
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.exe
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.pdb
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\bin\Debug\SA_Barbara_JoaoPaulo.exe.config
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\bin\Debug\SA_Barbara_JoaoPaulo.exe
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\bin\Debug\SA_Barbara_JoaoPaulo.pdb
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\bin\Debug\MySql.Data.dll
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\bin\Debug\Zstandard.Net.dll
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\bin\Debug\System.Buffers.dll
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\bin\Debug\System.Memory.dll
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.csproj.CopyComplete
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.Telas.RH12.resources
+C:\Users\joaop\Desktop\Desenvolvimento de sistemas\Desenvolvimento-de-Sistemas\SA_Barbara_JoaoPaulo\SA_Barbara_JoaoPaulo\obj\Debug\SA_Barbara_JoaoPaulo.Telas.Vendas12.resources
